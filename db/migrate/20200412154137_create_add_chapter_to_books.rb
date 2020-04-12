@@ -5,4 +5,3 @@ class CreateAddChapterToBooks < ActiveRecord::Migration[6.0]
       t.timestamps
     end
   end
-end
