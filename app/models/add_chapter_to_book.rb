@@ -1,0 +1,2 @@
+class AddChapterToBook < ApplicationRecord
+end
